@@ -1,7 +1,7 @@
 // Create a function that takes two number parameters and logs the value of both
 // parameters added together.
 
-function somethingHere(a, b){
+function add(a,b) {
   console.log(a + b);
-}
-somethingHere(1,5);
+};
+add(2,5);
